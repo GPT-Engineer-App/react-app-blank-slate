@@ -3,3 +3,6 @@ build = "npm run build"
 
 [gptengineer-app]
 project_id = "41d58591-d63b-4f82-95bd-4744d11eafe7"
+
+[[gptengineer-app.openapi]]
+url = "https://raw.githubusercontent.com/APIs-guru/openapi-directory/main/APIs/color.pizza/1.0.0/openapi.yaml"
